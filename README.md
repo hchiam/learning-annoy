@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. <https://github.com/hchiam/learning>
 
+ANNOY for ML approximate nearest neighbours of vectors.
+
 ## Python
 
 <https://github.com/spotify/annoy>
