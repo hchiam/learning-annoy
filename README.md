@@ -22,3 +22,7 @@ python use.py
 npm install
 node use.js
 ```
+
+## More
+
+<https://github.com/hchiam/text-similarity-test>
